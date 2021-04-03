@@ -1,0 +1,1 @@
+The index.php file will be run automatically every 5 minutes with windows task sceduler  using the php.exe -f 
